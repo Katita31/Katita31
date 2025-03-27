@@ -1,6 +1,10 @@
 ## 🚀 **¡Hola! Soy Kattya** 👋  
-
-**📊 Data Scientist en formación con background en Supply Chain**  
+### Sobre Mí  
+**📊 Data Scientist** con experiencia en optimizar cadenas de suministro mediante análisis de datos.  
+**🔍 Enfoque:** Transformar problemas de planificación y compras en soluciones basadas en datos con Python, SQL y Power BI.  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 🔍 **Transformando datos en decisiones estratégicas** mediante **Python, SQL y Power BI**.  
 🎯 **+3 años de experiencia** optimizando **compras, abastecimiento y cadenas de suministro**.  
