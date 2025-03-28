@@ -79,3 +79,52 @@ Profesional **analítica y apasionada** por la intersección entre supply chain 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Katita31&layout=compact&theme=default#gh-light-mode-only)
 
 </div>
+
+
+
+<div align="center" style="background-color:white;padding:20px;border-radius:10px">
+
+# 👋 Hola, soy **Kattya Contreras**  
+### `Ingeniera | Especialista en Supply Chain, Business Intelligence & Forecast`
+
+💎 **Transformo datos en estrategias para la cadena de suministro**  
+
+📍 **Santiago, Chile**  
+📧 **kattyacontreras.v@gmail.com**  
+
+[![LinkedIn](https://img.shields.io/badge/-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![GitHub](https://img.shields.io/badge/-Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
+
+</div>
+
+---
+
+## 🔍 **Sobre Mí**  
+Profesional analítica con experiencia en **retail, minería y FMCG**, especializada en:
+
+- ✅ **Forecast de demanda** (SARIMA, Prophet)  
+- ✅ **Automatización de reportes** (Power BI, SAP B1)  
+- ✅ **Optimización de inventarios** mediante ML  
+
+*"Datos precisos + contexto de negocio = Decisiones estratégicas"*  
+
+---
+
+## 🛠 **Tecnologías**  
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP">
+</div>
+
+---
+
+## 🌟 **Proyectos Recientes**  
+
+### 1. [📈 Sistema de Forecast para Retail](https://github.com/Katita31/demanda)  
+*Modelo SARIMA con MAPE del 7.9%*  
+```python
+# Ejemplo de código
+model = SARIMA(data, order=(1,1,1), seasonal_order=(1,1,1,12))
+
