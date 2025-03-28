@@ -1,5 +1,4 @@
 <div align="center">
-
 #  **Kattya Contreras**  
  
 ### Especialista en Supply Chain | Business Intelligence  | Data Science
