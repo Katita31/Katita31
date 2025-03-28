@@ -155,3 +155,67 @@ ____________________________
 ![Estadísticas GitHub](https://camo.githubusercontent.com/f75b8fcf306bc89fb92019c836aa4d1610482cea1c2d4fdd300c89751d84216e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b617469746133312673686f775f69636f6e733d74727565267468656d653d64656661756c742367682d6c696768742d6d6f64652d6f6e6c79)
 
 </div>
+
+
+
+
+_________________
+
+# 👋 Hola, soy Kattya Contreras  
+### Ingeniera | Especialista en Data Science aplicado a Supply Chain
+
+📌 **Santiago, Chile**  
+📧 kattyacontreras.v@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/) | [GitHub](https://github.com/Katita31)
+
+---
+
+## 🛠 Tecnologías Principales
+- **Lenguajes**: Python, SQL
+- **Visualización**: Power BI, Matplotlib
+- **Machine Learning**: Scikit-learn, statsmodels
+- **ERP**: SAP B1
+
+---
+
+## 📂 Proyectos GitHub
+
+### [demanda](https://github.com/Katita31/demanda)
+Análisis de datos de compras y gestión de inventarios  
+🔹 **Tecnologías**: Python, Pandas, Power BI  
+🔹 **Contenido**:  
+   - Scripts de limpieza de datos  
+   - Visualizaciones básicas de series temporales  
+
+### [exploratorio](https://github.com/Katita31/exploratorio)
+Exploración inicial de datasets comerciales  
+🔹 **Tecnologías**: Jupyter Notebooks, Pandas  
+🔹 **Contenido**:  
+   - Análisis de distribuciones  
+   - Detección de valores atípicos  
+
+### [proyecto](https://github.com/Katita31/proyecto)
+Repositorio para desarrollo de modelos predictivos  
+🔹 **Tecnologías**: Python, Scikit-learn  
+🔹 **Contenido**:  
+   - Esqueleto para modelos de ML  
+   - Pruebas con datos de ejemplo  
+
+### [nlp-project](https://github.com/Katita31/nlp-project)
+Experimentos con procesamiento de lenguaje natural  
+🔹 **Tecnologías**: NLTK, Transformers  
+🔹 **Contenido**:  
+   - Clasificación básica de texto  
+   - Notebooks de experimentación  
+
+---
+
+## 📈 Estadísticas GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=default#gh-light-mode-only)
+
+---
+
+## 📬 Contacto
+Para colaboraciones profesionales:  
+📧 kattyacontreras.v@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/)
