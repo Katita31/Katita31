@@ -20,7 +20,7 @@
 Ingeniera en Comercio Internacional, apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:
 
 • Optimizar operaciones mediante **modelos predictivos**  
-• Diseñar sistemas de **monitoreo de KPIs** intuitivos  
+• Diseñar sistemas de **monitoreo de KPI's** intuitivos  
 • Automatizar procesos con **soluciones BI** escalables  
 
 *"Los datos son el lenguaje del negocio. Hagamos que hablen claro."*
@@ -51,10 +51,10 @@ Ingeniera en Comercio Internacional, apasionada por la mejora continua y la tran
 ## 🤝 ¿Interesado en colaborar?
 Trabajemos juntos en:
 
-🔹 **Modelos predictivos** para supply chain  
-🔹 **Dashboards ejecutivos** con Power BI/Tableau  
-🔹 **Automatización** de procesos ETL  
-🔹 **Workshops** de data literacy para equipos  
+✅ **Modelos predictivos** para supply chain  
+✅ **Dashboards ejecutivos** con Power BI/Tableau  
+✅ **Automatización** de procesos ETL  
+✅ **Workshops** de data literacy para equipos  
 
 <div align="center" style="margin:30px 0;">
 
