@@ -208,8 +208,7 @@ ______
 <div align="center" style="background-color:#000000; padding:25px; border-radius:10px; color:#e0e0e0;">
 
 # Kattya Contreras Valdés  
-### Especialista en Data Science aplicado a Supply Chain
-
+### Especialista en Supply Chain| Business Intelligence | Data Science 
 </div>
 
 ---
