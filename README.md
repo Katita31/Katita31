@@ -135,3 +135,146 @@ Automated financial KPI reporting
 
 ## 📈 My Coding Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true)
+
+
+
+
+<div align="center" style="background-color:#000000; padding:25px; border-radius:10px; color:#ffffff;">
+
+# Kattya Contreras Valdés  
+### Especialista en Data Science aplicado a Supply Chain
+
+</div>
+
+---
+
+## 👋 Sobre Mí  
+Soy una profesional apasionada por transformar datos en estrategias accionables. Con background en ingeniería y especialización en ciencia de datos, ayudo a empresas a:
+
+• Optimizar sus operaciones mediante **modelos predictivos**  
+• Crear sistemas de **monitoreo de KPIs** claros y efectivos  
+• Automatizar procesos con **soluciones BI** escalables  
+
+*"Creo en el poder de los datos para tomar decisiones más inteligentes, no más difíciles. Si buscas mejorar tus procesos con un enfoque humano y técnico, hablemos."*
+
+---
+
+## 🛠 Tecnologías Principales  
+**Lenguajes**: Python | SQL  
+**Visualización**: Power BI | Tableau  
+**Machine Learning**: Scikit-learn | TensorFlow  
+**ERP/CRM**: SAP B1 | Salesforce  
+
+---
+
+## 📊 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Impacto |
+|----------|-------------|-------------|---------|
+| [📈 Forecast de Demanda](https://github.com/Katita31/planificacion-demanda-python) | Modelo predictivo para gestión de inventarios | Python, SARIMA | MAPE 7.5% |
+| [📊 Dashboard Compras](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Análisis de rendimiento de proveedores | Power BI, DAX | +65% eficiencia |
+| [🤖 Optimización de Rutas](https://github.com/Katita31/[repo]) | Algoritmo para minimizar costos logísticos | Python, OR-Tools | 20% ahorro |
+| [📉 Monitoreo Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Tablero de KPIs financieros | Power BI, Excel | Reportes en tiempo real |
+
+---
+
+## 🤝 Trabajemos Juntos  
+¿Buscas mejorar tus procesos con data science? Colaboremos en:  
+
+🔹 **Desarrollo de dashboards** ejecutivos  
+🔹 **Modelos predictivos** para supply chain  
+🔹 **Automatización** de reportes y ETL  
+🔹 **Capacitación** en herramientas de análisis  
+
+<div align="center" style="margin-top:20px;">
+
+[![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)  
+[![Email](https://img.shields.io/badge/-Escríbeme-D14836?style=for-the-badge&logo=gmail)](mailto:kattyacontreras.v@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-Ver_Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&card_width=500)
+
+</div>
+
+______
+ÚLTIMA VERSIÓN MEJORADA
+
+<div align="center" style="background-color:#000000; padding:25px; border-radius:10px; color:#e0e0e0;">
+
+# Kattya Contreras Valdés  
+### Especialista en Data Science aplicado a Supply Chain
+
+</div>
+
+---
+
+## 👋 Sobre Mí  
+Ingeniera apasionada por transformar datos en estrategias accionables. Combino expertise técnico con visión de negocio para:
+
+• Optimizar operaciones mediante **modelos predictivos**  
+• Diseñar sistemas de **monitoreo de KPIs** intuitivos  
+• Automatizar procesos con **soluciones BI** escalables  
+
+*"Los datos son el lenguaje del negocio. Hagamos que hablen claro."*
+
+---
+
+## 🏆 Reconocimientos
+• 🥇 **Mejor Proyecto Analytics 2023** - Comunidad Data Chile  
+• 📊 **Power BI Expert Certification** - Microsoft  
+• 🚀 **Top Contributor** - Foro SAP B1  
+
+---
+
+## 🛠 Tecnologías Principales  
+**Lenguajes**: Python | SQL  
+**Visualización**: Power BI | Tableau  
+**Machine Learning**: Scikit-learn | TensorFlow  
+**ERP/CRM**: SAP B1 | Salesforce  
+
+---
+
+## 📊 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Impacto |
+|----------|-------------|-------------|---------|
+| [📈 Forecast de Demanda](https://github.com/Katita31/planificacion-demanda-python) | Modelo predictivo para gestión de inventarios | Python, SARIMA | MAPE 7.5% |
+| [📊 Dashboard Compras](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Análisis de rendimiento de proveedores | Power BI, DAX | +65% eficiencia |
+| [🤖 Optimización de Rutas](https://github.com/Katita31/optimizacion-rutas) | Algoritmo para minimizar costos logísticos | Python, OR-Tools | 20% ahorro |
+| [📉 Monitoreo Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Tablero de KPIs financieros | Power BI, Excel | Reportes en tiempo real |
+
+![Dashboard Preview](https://via.placeholder.com/800x400/2d3748/e2e8f0?text=Power+BI+Dashboard+Example+--+Actualizar+con+imagen+real)
+
+---
+
+## 🤝 ¿Interesado en colaborar?
+Trabajemos juntos en:
+
+🔹 **Modelos predictivos** para supply chain  
+🔹 **Dashboards ejecutivos** con Power BI/Tableau  
+🔹 **Automatización** de procesos ETL  
+🔹 **Workshops** de data literacy para equipos  
+
+<div align="center" style="margin:30px 0;">
+
+[![LinkedIn](https://img.shields.io/badge/-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kattyacontrerasv/)  
+[![Email](https://img.shields.io/badge/-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kattyacontreras.v@gmail.com)  
+[![GitHub Proyectos](https://img.shields.io/badge/-Portafolio-181717?style=for-the-badge&logo=github)](https://github.com/Katita31?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&icon_color=58a6ff&hide_border=true&card_width=500)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Katita31&layout=compact&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&hide_border=true)
+
+</div>
