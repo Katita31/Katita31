@@ -41,10 +41,8 @@
 |----------|-------------|-------------|---------|
 | [📈 Forecast de Demanda](https://github.com/Katita31/planificacion-demanda-python) | Modelo predictivo para gestión de inventarios | Python, SARIMA | MAPE 7.5% |
 | [📊 Dashboard Compras](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Análisis de rendimiento de proveedores | Power BI, DAX | +65% eficiencia |
-| [🤖 Optimización de Rutas](https://github.com/Katita31/optimizacion-rutas) | Algoritmo para minimizar costos logísticos | Python, OR-Tools | 20% ahorro |
+| [📦 Dashboard Inventario](https://github.com/Katita31/dashboard-inventario-powerbi) | Sistema de gestión y alertas de stock | Power BI, SQL | Reducción de 30% en faltantes |
 | [📉 Monitoreo Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Tablero de KPIs financieros | Power BI, Excel | Reportes en tiempo real |
-
-
 
 ---
 
