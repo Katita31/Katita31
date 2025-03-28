@@ -215,20 +215,13 @@ ______
 ---
 
 ## 👋 Sobre Mí  
-Ingeniera apasionada por transformar datos en estrategias accionables. Combino expertise técnico con visión de negocio para:
+Ingeniera en Comercio Internacional, apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:
 
 • Optimizar operaciones mediante **modelos predictivos**  
 • Diseñar sistemas de **monitoreo de KPIs** intuitivos  
 • Automatizar procesos con **soluciones BI** escalables  
 
 *"Los datos son el lenguaje del negocio. Hagamos que hablen claro."*
-
----
-
-## 🏆 Reconocimientos
-• 🥇 **Mejor Proyecto Analytics 2023** - Comunidad Data Chile  
-• 📊 **Power BI Expert Certification** - Microsoft  
-• 🚀 **Top Contributor** - Foro SAP B1  
 
 ---
 
