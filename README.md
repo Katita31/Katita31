@@ -202,7 +202,7 @@ Soy una profesional apasionada por transformar datos en estrategias accionables.
 
 </div>
 
-______
+
 ÚLTIMA VERSIÓN MEJORADA
 
 <div align="center" style="background-color:#000000; padding:25px; border-radius:10px; color:#e0e0e0;">
