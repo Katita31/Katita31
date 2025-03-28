@@ -81,3 +81,57 @@ Me puedes contactar a través de:
 
 </div>
 
+
+
+
+# Kattya Contreras 
+### Data Science | Business Intelligence | Supply Chain Optimization
+
+📍 **Santiago, Chile**  
+📧 kattyacontreras.v@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/) | [GitHub](https://github.com/Katita31)
+
+---
+
+## 🛠 Technical Skills
+**Programming**: Python, SQL  
+**BI Tools**: Power BI, Tableau  
+**Machine Learning**: Scikit-learn, TensorFlow  
+**ERP Systems**: SAP B1  
+
+---
+
+## 🏆 GitHub Highlights
+
+| Metric | Count |
+|--------|-------|
+| Repositories | 8 |
+| Stars | 12 |
+| Contributions | 124 |
+
+---
+
+## 🔥 Featured Projects
+
+### [📊 Inventory Dashboard](https://github.com/Katita31/dashboard-inventario-powerbi)
+Power BI dashboard for real-time inventory tracking  
+✅ **Tech**: Power BI, DAX, SQL  
+✅ **Impact**: 30% reduction in stockouts
+
+### [📈 Demand Forecasting](https://github.com/Katita31/planificacion-demanda-python)
+Time series forecasting model for supply chain  
+✅ **Tech**: Python, SARIMA, Pandas  
+✅ **Accuracy**: MAPE 7.5%
+
+### [🚚 Supply Chain Analytics](https://github.com/Katita31/PowerBI-SupplyChain-Compras)
+Supplier performance analysis dashboard  
+✅ **Tech**: Power BI, SAP Integration
+
+### [💰 Financial Reports](https://github.com/Katita31/Informefinanciero.pbi)
+Automated financial KPI reporting  
+✅ **Tech**: Power BI, Excel
+
+---
+
+## 📈 My Coding Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true)
