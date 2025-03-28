@@ -203,6 +203,23 @@ Soy una profesional apasionada por transformar datos en estrategias accionables.
 </div>
 
 
+<div align="center">
+
+# 👋 Hola, soy **Kattya Contreras**  
+### Ingeniera en Comercio Internacional | Especialista en Supply Chain, Business Intelligence & Data Science
+
+💎 **Transformo datos en estrategias para la cadena de suministro**  
+
+📍 **Santiago, Chile**  
+📧 **kattyacontreras.v@gmail.com**  
+
+[![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![GitHub](https://img.shields.io/badge/-Explora_mis_Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
+
+</div>
+
+---
+
 ÚLTIMA VERSIÓN MEJORADA
 
 <div align="center" style="background-color:#000000; padding:25px; border-radius:10px; color:#e0e0e0;">
