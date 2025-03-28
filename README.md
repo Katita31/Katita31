@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hola, soy **Kattya Contreras**  
-### `Ingeniera | Especialista en Supply Chain, Business Intelligence & Forecast`
+### Ingeniera | Especialista en Supply Chain, Business Intelligence & Forecast
 
 💎 **Transformo datos en estrategias para la cadena de suministro**  
 
@@ -84,29 +84,7 @@ Profesional **analítica y apasionada** por la intersección entre supply chain 
 
 <div align="center" style="background-color:white;padding:20px;border-radius:10px">
 
-# 👋 Hola, soy **Kattya Contreras**  
-# Ingeniera | Especialista en Supply Chain, Business Intelligence & Forecast
 
-💎 **Transformo datos en estrategias para la cadena de suministro**  
-
-📍 **Santiago, Chile**  
-📧 **kattyacontreras.v@gmail.com**  
-
-[![LinkedIn](https://img.shields.io/badge/-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
-[![GitHub](https://img.shields.io/badge/-Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
-
-</div>
-
----
-
-## 🔍 **Sobre Mí**  
-Profesional analítica con experiencia en **retail, minería y FMCG**, especializada en:
-
-- ✅ **Forecast de demanda** (SARIMA, Prophet)  
-- ✅ **Automatización de reportes** (Power BI, SAP B1)  
-- ✅ **Optimización de inventarios** mediante ML  
-
-*"Datos precisos + contexto de negocio = Decisiones estratégicas"*  
 
 
 ---
