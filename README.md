@@ -89,4 +89,23 @@ Profesional **analítica y apasionada** por la intersección entre supply chain 
 
 ---
 
+## 🌟 **Proyectos Reales**  
+
+### 1. [📊 Dashboard de Compras (Janssen Maquinaria)](https://github.com/Katita31/demanda)  
+*Automatización de métricas de compras en Power BI*  
+🔹 **Tecnologías**: Power BI, DAX, SAP B1  
+🔹 **Logro**: Reducción del 65% en retrasos de contratos  
+
+### 2. [📈 ETL para Datos de Proveedores](https://github.com/Katita31/exploratorio)  
+*Limpieza y estandarización de bases de datos*  
+🔹 **Tecnologías**: Python (Pandas), SQL, Excel VBA  
+
+### 3. [🔍 Análisis de Patrones de Exportación](https://github.com/Katita31/proyecto)  
+*Detección de outliers en documentos logísticos*  
+🔹 **Tecnologías**: Python (Matplotlib, Seaborn), Power BI  
+
+### 4. [🤖 Optimización de Inventarios (Anumka Cosmética)](https://github.com/Katita31/[repo-actual])  
+*Modelo de clasificación para gestión de stock*  
+🔹 **Tecnologías**: Python (Scikit-learn), SAP  
+
 
