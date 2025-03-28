@@ -3,7 +3,7 @@
 
 #  **Kattya Contreras**  
  
-### Especialista en Supply Chain | Business Intelligence  | Data Science
+### Ingeniera en Comercio Internacional | Especialista en Supply Chain | Business Intelligence  | Data Science
 
 💎 **Transformo datos en estrategias para la cadena de suministro**  
 
@@ -17,7 +17,7 @@
 
 ----------
 ## 👋 Sobre Mí  
- *Ingeniera en Comercio Internacional, apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:*
+ *Apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:*
 
 • Optimizar operaciones mediante **modelos predictivos**  
 • Diseñar sistemas de **monitoreo de KPI's** intuitivos  
