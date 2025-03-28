@@ -175,9 +175,9 @@ Ingeniera especializada en **optimización de procesos** y **análisis de datos*
   <img src="https://camo.githubusercontent.com/10073ec53a5bf331b0e2a790c5c71605bf4dc362122d2ccd105153acbec73272/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b617469746133312673686f775f69636f6e733d74727565267468656d653d6d65726b6f" alt="Katita's GitHub Stats" width="60%">
   
 # 👋 Hola, soy **Kattya Contreras**  
-### `Ingeniera | Especialista en Forecast & Optimización con Datos`
+### `Ingeniera | Especialista en supply chain, Business Intelligente, Forecast & Optimización con Datos`
 
-💡 **Transformo números en decisiones estratégicas** con un enfoque humano y técnico.  
+💡 **Transformo números en decisiones estratégicas** 
 
 📌 **Santiago, Chile**  
 📧 **kattyacontreras.v@gmail.com**  
@@ -189,13 +189,13 @@ Ingeniera especializada en **optimización de procesos** y **análisis de datos*
 ---
 
 ## 🔍 **Sobre Mí**  
-Soy una profesional **analítica y apasionada** por la intersección entre el comercio internacional y la ciencia de datos. Mi experiencia en sectores como **logística, minería y retail** me ha permitido desarrollar:  
+Profesional **analítica y apasionada** por la intersección entre la cadena de suministro y la ciencia de datos. Mi experiencia en sectores como **alimentos, cosméticos, servicios de maquinaria pesada, minería y retail** me ha permitido desarrollar:  
 
 - ✅ **Modelos predictivos robustos** (ARIMA/SARIMA, Prophet).  
-- ✅ **Dashboards claros y accionables** en Power BI.  
+- ✅ **Dashboards claros y accionables** en Power BI con leguaje DAX.  
 - ✅ **Automatización de ETL** para optimizar procesos empresariales.  
 
-*"Creo en los datos como herramientas para empoderar equipos, no para reemplazar intuiciones humanas."*  
+*"Creo en los datos como herramientas para empoderar equipos y tomar decisiones basadas en datos reales, no para reemplazar intuiciones humanas."*  
 
 ---
 
@@ -220,8 +220,8 @@ Soy una profesional **analítica y apasionada** por la intersección entre el co
 
 ### 2. [📊 Dashboard de Compras Automatizado](https://github.com/Katita31/exploratorio)  
 *Visualización de métricas clave en Power BI*  
-🔹 **Tecnologías**: Power BI, DAX, SQL  
-🔹 **Logro**: Reducción del 65% en retrasos de contratos.  
+🔹 **Tecnologías**: Power BI, DAX 
+  
 
 ### 3. [🔍 ETL para Datos SAP B1](https://github.com/Katita31/proyecto)  
 *Limpieza y transformación de datos de proveedores*  
@@ -235,9 +235,9 @@ Soy una profesional **analítica y apasionada** por la intersección entre el co
 
 ## 📬 **Contacto Profesional**  
 Si deseas hablar de:  
-- 🤝 Colaboraciones en ciencia de datos.  
-- 📢 Charlas sobre optimización de procesos.  
-- 🌱 Mentoría en análisis predictivo.  
+- 🤝 Colaboraciones en proyectos de Data Science.  
+- 📢 Optimización de procesos empresariales.  
+- 🌱 Análisis predictivo.  
 
 Escríbeme a:  
 [![Email](https://img.shields.io/badge/Email-kattyacontreras.v@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:kattyacontreras.v@gmail.com)  
