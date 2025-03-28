@@ -85,7 +85,7 @@ Profesional **analítica y apasionada** por la intersección entre supply chain 
 <div align="center" style="background-color:white;padding:20px;border-radius:10px">
 
 # 👋 Hola, soy **Kattya Contreras**  
-# `Ingeniera | Especialista en Supply Chain, Business Intelligence & Forecast`
+# Ingeniera | Especialista en Supply Chain, Business Intelligence & Forecast
 
 💎 **Transformo datos en estrategias para la cadena de suministro**  
 
