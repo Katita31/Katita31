@@ -107,3 +107,65 @@ _____________________
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=merko" alt="Estadísticas GitHub">
 </div>
+
+
+<div align="center">
+  
+# 👋 ¡Hola! Soy **Kattya Contreras**  
+### `Ingeniera en Comercio Internacional | Científica de Datos en Formación`
+
+📌 **Región Metropolitana, Chile**  
+📧 **kattyacontreras.v@gmail.com**  
+📞 **+569 202 80019**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactarme-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![GitHub](https://img.shields.io/badge/GitHub-Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
+
+</div>
+
+---
+
+## 🔥 **Sobre Mí**  
+Ingeniera especializada en **optimización de procesos** y **análisis de datos**, con experiencia en:  
+📊 **Dashboards estratégicos** (Power BI, Excel)  
+📈 **Forecast de demanda** (Python, SARIMA)  
+🛒 **Gestión de compras e inventarios** (SAP B1)  
+
+*"Transformo datos en decisiones claras para reducir costos y mejorar eficiencias."*  
+
+---
+
+## 🛠 **Tecnologías**  
+
+**Lenguajes y Herramientas**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi)
+
+**Data Science**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-FF9E0F?style=flat&logo=scikit-learn)
+
+---
+
+## 📂 **Proyectos Destacados**  
+
+| Repositorio | Descripción |  
+|-------------|-------------|  
+| [📈 Forecast de Compras](https://github.com/Katita31/demanda) | Modelos predictivos para optimizar inventarios. |  
+| [📊 Dashboard SAP](https://github.com/Katita31/exploratorio) | Análisis de métricas de compras en Power BI. |  
+
+---
+
+## 📫 **¿Quieres colaborar?**  
+¡Hablemos de datos, optimización o nuevos proyectos!  
+
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail)](mailto:kattyacontreras.v@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/56920280019)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=default" alt="Estadísticas GitHub" width="60%">
+</div>
