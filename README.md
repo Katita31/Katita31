@@ -211,9 +211,12 @@ ______
 ### Especialista en Supply Chain| Business Intelligence | Data Science 
 </div>
 ---
+
 📍 **Santiago, Chile**  
-📧 kattyacontreras.v@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/) | [GitHub](https://github.com/Katita31)
+📧 **kattyacontreras.v@gmail.com**  
+
+[![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![GitHub](https://img.shields.io/badge/-Explora_mis_Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
 
 ## 👋 Sobre Mí  
 Ingeniera en Comercio Internacional, apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:
