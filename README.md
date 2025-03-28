@@ -43,7 +43,7 @@ Ingeniera en Comercio Internacional, apasionada por la mejora continua y la tran
 | [🤖 Optimización de Rutas](https://github.com/Katita31/optimizacion-rutas) | Algoritmo para minimizar costos logísticos | Python, OR-Tools | 20% ahorro |
 | [📉 Monitoreo Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Tablero de KPIs financieros | Power BI, Excel | Reportes en tiempo real |
 
-![Dashboard Preview](https://via.placeholder.com/800x400/2d3748/e2e8f0?text=Power+BI+Dashboard+Example+--+Actualizar+con+imagen+real)
+
 
 ---
 
