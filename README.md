@@ -38,24 +38,14 @@ Profesional **analítica y apasionada** por la intersección entre supply chain 
 
 ---
 
-## 🌟 **Proyectos Destacados**  
+### 🌟 **Proyectos Destacados**
 
-### 1. [📈 Forecast de Demanda con SARIMA](https://github.com/Katita31/demanda)  
-*Modelo predictivo para optimizar inventarios en retail*  
-🔸 **Tecnologías**: Python, statsmodels, Pandas  
-🔸 **Logro**: Reducción de 30% en costos por overstock  
-
-### 2. [📊 Dashboard de Compras en Power BI](https://github.com/Katita31/exploratorio)  
-*Visualización interactiva de KPIs de proveedores*  
-🔸 **Tecnologías**: Power BI, DAX, SQL  
-
-### 3. [🔧 ETL para Datos SAP B1](https://github.com/Katita31/proyecto)  
-*Pipeline automatizado de limpieza de datos*  
-🔸 **Tecnologías**: Python, SQL, Excel VBA  
-
-### 4. [🤖 Clasificación de Productos con ML](https://github.com/Katita31/[repositorio])  
-*Modelo para predecir categorías de venta*  
-🔸 **Tecnologías**: Scikit-learn, Matplotlib  
+| Proyecto | Descripción | Herramientas |
+|----------|-------------|--------------|
+| [📊 Dashboard de Inventarios](https://github.com/Katita31/dashboard-inventario-powerbi) | Monitoreo visual de niveles de stock y rotación | Power BI, DAX, SQL |
+| [📈 Planificación de Demanda](https://github.com/Katita31/planificacion-demanda-python) | Modelo predictivo para gestión de inventarios | Python, SARIMA, Pandas |
+| [🚚 Supply Chain Analytics](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Análisis de rendimiento de proveedores y compras | Power BI, SAP B1 |
+| [💰 Informe Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Visualización de KPIs financieros clave | Power BI, Excel |
 
 ---
 
