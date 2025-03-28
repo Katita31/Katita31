@@ -210,11 +210,10 @@ ______
 # Kattya Contreras Valdés  
 ### Especialista en Supply Chain| Business Intelligence | Data Science 
 </div>
-
+---
 📍 **Santiago, Chile**  
 📧 kattyacontreras.v@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/) | [GitHub](https://github.com/Katita31)
----
 
 ## 👋 Sobre Mí  
 Ingeniera en Comercio Internacional, apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:
