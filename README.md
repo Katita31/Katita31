@@ -23,7 +23,7 @@
 • Diseñar sistemas de **monitoreo de KPI's** intuitivos  
 • Automatizar procesos con **soluciones BI** escalables  
 
-*"Los datos son el lenguaje del negocio. Hagamos que hablen claro."*
+*Los datos son el lenguaje del negocio. Hagamos que hablen claro.*
 
 ---
 
