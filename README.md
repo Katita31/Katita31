@@ -60,17 +60,17 @@ Combino un enfoque técnico con visión de negocio para:
 - Control de versiones con **Git/GitHub**  
 
 ---
-
 ## 📊 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías | Impacto |
 |----------|-------------|-------------|---------|
-| [✈️ Predicción Precio Vuelos](https://github.com/Katita31/…repo…) | Proyecto final Data Science: predicción de precios de boletos (Business) usando limpieza, feature engineering, codificación de variables categóricas y modelos Random Forest, XGBoost, Lasso. Optimización de Random Forest con GridSearchCV y métricas evaluadas frente a baseline. | Python, Random Forest, XGBoost, Lasso, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, GridSearchCV | R² 0.923, análisis interpretativo de variables y comparación con baseline |
-| [📧 Limpieza de Correos](https://github.com/Katita31/…repo…) | Automatización de limpieza y normalización de bases de correos de clientes, filtrando errores, dominios y duplicados. | Python, Pandas, Excel | Mejora la calidad de datos para análisis y CRM |
+| [✈️ Predicción Precio Vuelos](https://github.com/Katita31/MiProyecto) | Proyecto final Data Science: predicción de precios de boletos (Business) usando limpieza, feature engineering, codificación de variables categóricas y modelos Random Forest, XGBoost, Lasso. Optimización de Random Forest con GridSearchCV y métricas evaluadas frente a baseline. | Python, Random Forest, XGBoost, Lasso, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, GridSearchCV | R² 0.923, análisis interpretativo de variables y comparación con baseline |
+| [📧 Limpieza de Correos](https://github.com/Katita31/etl-limpieza-correos) | Automatización de limpieza y normalización de bases de correos de clientes, filtrando errores, dominios y duplicados. | Python, Pandas, Excel | Mejora la calidad de datos para análisis y CRM |
 | [📈 Forecast de Demanda](https://github.com/Katita31/planificacion-demanda-python) | Modelo predictivo para gestión de inventarios | Python, SARIMA | MAPE 7.5% |
 | [📊 Dashboard Compras](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Análisis de rendimiento de proveedores y KPIs de compras | Power BI, DAX | +65% eficiencia en monitoreo de KPIs |
 | [📦 Dashboard Inventario](https://github.com/Katita31/dashboard-inventario-powerbi) | Sistema de gestión y alertas de stock | Power BI, SQL | Reducción de 30% en faltantes |
 | [📉 Monitoreo Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Tablero de KPIs financieros | Power BI, Excel | Reportes en tiempo real |
+
 
 ---
 
