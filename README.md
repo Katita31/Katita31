@@ -1,11 +1,10 @@
 <div align="center">
 
+# **Kattya Contreras Valdés**  
 
-#  **Kattya Contreras**  
- 
-### Ingeniera en Comercio Internacional | Especialista en Supply Chain | Business Intelligence  | Data Science
+### Data Analyst | Business Intelligence | Data Science  
 
-💎 **Transformo datos en estrategias para la cadena de suministro**  
+💎 **Transformo datos en estrategias accionables para el negocio**  
 
 📍 **Santiago, Chile**  
 📧 **kattyacontreras.v@gmail.com**  
@@ -15,23 +14,48 @@
 
 </div>
 
-----------
-## 👋 Sobre Mí  
- *Apasionada por la mejora continua y la transformación de los datos. Combino expertise técnico con visión de negocio para:*
+---
 
-• Optimizar operaciones mediante **modelos predictivos**  
-• Diseñar sistemas de **monitoreo de KPI's** intuitivos  
-• Automatizar procesos con **soluciones BI** escalables  
+## Sobre mí  
+Profesional en **Business Intelligence y Data Science**, con experiencia en análisis de datos, visualización y desarrollo de modelos predictivos.  
+Combino un enfoque técnico con visión de negocio para:  
 
-*Los datos son el lenguaje del negocio. Hagamos que hablen claro.*
+- Construir **modelos de Machine Learning** y análisis estadísticos  
+- Diseñar **dashboards ejecutivos** en Power BI y Tableau  
+- Automatizar procesos con **Python, SQL y APIs**  
+- Implementar soluciones reproducibles con **Docker y AWS**  
+- Gestionar proyectos de **Machine Learning con MLOps**  
+
+📌 *Mi misión es transformar datos en decisiones claras y estrategias de valor.*  
 
 ---
 
-## 🛠 Tecnologías Principales  
-**Lenguajes**: Python | SQL  
-**Visualización**: Power BI | Tableau  
-**Machine Learning**: Scikit-learn | TensorFlow  
-**ERP/CRM**: SAP B1 | Salesforce  
+## 🛠️ Skills Técnicas  
+
+**Lenguajes & Data**  
+- **Python (Intermedio – orientado a Data Science y BI):** pandas, numpy, scikit-learn, matplotlib, APIs, ETL, automatización de reportes  
+- **SQL (Intermedio):** consultas, joins, modelado de datos para dashboards  
+- **Estadística & Machine Learning:** regresión, clasificación, series de tiempo  
+- **PyCaret (Intermedio):** experimentación y comparación automática de modelos  
+- **Optuna (Básico/Intermedio):** optimización de hiperparámetros  
+- **TensorFlow (Básico/Intermedio):** modelos de deep learning  
+
+**Business Intelligence & Visualización**  
+- **Power BI (Avanzado):** dashboards ejecutivos, DAX, modelado de datos  
+- **Tableau (Intermedio):** visualizaciones interactivas y storytelling de datos  
+- **Excel (Avanzado):** reporting, tablas dinámicas, análisis financiero  
+
+**Cloud & DevOps**  
+- **AWS (Básico):** S3, EC2, RDS  
+- **Docker (Intermedio):** contenedores para proyectos Python, ambientes reproducibles  
+
+**MLOps & Gestión de Proyectos**  
+- **DagsHub:** control de versiones de datos, modelos y experimentos  
+- **MLflow (Básico):** tracking de modelos y métricas  
+
+**Otros**  
+- SAP B1 y Salesforce (manejo de datos de negocio)  
+- Control de versiones con **Git/GitHub**  
 
 ---
 
@@ -46,13 +70,21 @@
 
 ---
 
-## 🤝 ¿Interesado en colaborar?
-Trabajemos juntos en:
+## 🚀 En lo que estoy trabajando ahora  
+- Modelos de **predicción y clasificación** sobre datasets abiertos  
+- Optimización de **dashboards y reportes ejecutivos** en Power BI, Tableau y Python  
+- Automatización de procesos de datos y consumo de **APIs**  
+- Práctica de **Machine Learning y análisis estadístico aplicado a negocio**  
+- Exploración de técnicas de **Cloud Computing en AWS**
 
-✅ **Modelos predictivos** para supply chain  
-✅ **Dashboards ejecutivos** con Power BI/Tableau  
-✅ **Automatización** de procesos ETL  
-✅ **Workshops** de data literacy para equipos  
+
+## 🤝 Colaboración  
+Me motiva trabajar en proyectos de:  
+
+✅ **Modelos predictivos** con Python y ML  
+✅ **Dashboards ejecutivos** en Power BI/Tableau  
+✅ **Automatización ETL** con Python y SQL  
+✅ **MLOps y gestión colaborativa de proyectos**  
 
 <div align="center" style="margin:30px 0;">
 
