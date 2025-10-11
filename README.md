@@ -2,100 +2,109 @@
 
 # **Kattya Contreras Valdés**  
 
-### Data Analyst | Business Intelligence | Data Science  
+### Data Analyst | Business Intelligence | Data Science | Machine Learning Certified  
 
-💎 **Transformo datos en estrategias accionables para el negocio**  
+💎 **I transform data into actionable business strategies**  
 
 📍 **Santiago, Chile**  
 📧 **kattyacontreras.v@gmail.com**  
 
-[![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
-[![GitHub](https://img.shields.io/badge/-Explora_mis_Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
+[![LinkedIn](https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![GitHub](https://img.shields.io/badge/-Explore_my_Projects-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
 
 </div>
 
 ---
 
-## Sobre mí  
-Profesional en **Business Intelligence y Data Science**, con experiencia en análisis de datos, visualización y desarrollo de modelos predictivos.  
-Combino un enfoque técnico con visión de negocio para:  
+## About Me  
+Professional in **Business Intelligence and Data Science**, with a **Machine Learning certification** and strong experience in data analysis, visualization, and predictive modeling.  
+I combine technical expertise with business insight to:  
 
-- Construir **modelos de Machine Learning** (Random Forest, XGBoost, Lasso) y análisis estadísticos  
-- Optimizar hiperparámetros con **Optuna** y experimentación automática con **PyCaret**  
-- Diseñar **dashboards ejecutivos** en Power BI y Tableau  
-- Automatizar procesos con **Python, SQL y APIs**  
-- Implementar soluciones reproducibles con **Docker y AWS**  
-- Gestionar proyectos de **Machine Learning con MLOps**  
+- Build **Machine Learning models** (Random Forest, XGBoost, Lasso) and advanced statistical analyses  
+- Optimize hyperparameters with **Optuna** and automate experimentation with **PyCaret**  
+- Explore **ensemble learning techniques** and **neural networks using TensorFlow and Keras**  
+- Design **executive dashboards** in Power BI and Tableau  
+- Automate data processes using **Python, SQL, and APIs**  
+- Develop reproducible solutions with **Docker and AWS**  
+- Manage **Machine Learning projects using MLOps tools**  
 
-📌 *Mi misión es transformar datos en decisiones claras y estrategias de valor.*  
+📌 *My mission is to turn data into clear decisions and valuable business strategies.*  
 
 ---
 
-## 🛠️ Skills Técnicas  
+## 🛠️ Technical Skills  
 
-**Lenguajes & Data**  
-- **Python (Intermedio – Data Science y BI):** pandas, numpy, scikit-learn, matplotlib, APIs, ETL, automatización de reportes  
-- **SQL (Intermedio):** consultas, joins, modelado de datos para dashboards  
-- **Estadística & Machine Learning:** regresión, clasificación, series de tiempo  
-- **PyCaret (Intermedio):** experimentación y comparación de modelos  
-- **Optuna (Básico/Intermedio):** optimización de hiperparámetros  
-- **Random Forest, XGBoost, Lasso:** modelos supervisados no lineales y regresión avanzada  
-- **TensorFlow (Básico/Intermedio):** modelos de deep learning  
+**Languages & Data**  
+- **Python (Intermediate – Data Science & BI):** pandas, numpy, scikit-learn, matplotlib, APIs, ETL, report automation  
+- **SQL (Intermediate):** queries, joins, data modeling for dashboards  
+- **Statistics & Machine Learning:** regression, classification, time series, ensembles, neural networks  
+- **PyCaret (Intermediate):** model experimentation and comparison  
+- **Optuna (Basic/Intermediate):** hyperparameter optimization  
+- **Random Forest, XGBoost, Lasso, Stacking/Voting Ensembles**  
+- **TensorFlow & Keras (Intermediate):** deep learning, neural networks, model evaluation  
 
-**Business Intelligence & Visualización**  
-- **Power BI (Avanzado):** dashboards ejecutivos, DAX, modelado de datos  
-- **Tableau (Intermedio):** visualizaciones interactivas y storytelling de datos  
-- **Excel (Avanzado):** reporting, tablas dinámicas, análisis financiero  
+**Business Intelligence & Visualization**  
+- **Power BI (Advanced):** executive dashboards, DAX, data modeling  
+- **Tableau (Intermediate):** interactive visualizations and storytelling  
+- **Excel (Advanced):** reporting, pivot tables, financial analysis  
 
 **Cloud & DevOps**  
-- **AWS (Básico):** S3, EC2, RDS  
-- **Docker (Intermedio):** contenedores para proyectos Python, ambientes reproducibles  
+- **AWS (Basic):** S3, EC2, RDS  
+- **Docker (Intermediate):** containers for Python projects, reproducible environments  
 
-**MLOps & Gestión de Proyectos**  
-- **DagsHub:** control de versiones de datos, modelos y experimentos  
-- **MLflow (Básico):** tracking de modelos y métricas  
+**MLOps & Project Management**  
+- **DagsHub:** version control for data, models, and experiments  
+- **MLflow (Basic):** model tracking and performance metrics  
 
-**Otros**  
-- SAP B1 y Salesforce (manejo de datos de negocio)  
-- Control de versiones con **Git/GitHub**  
+**Other Tools**  
+- SAP B1 and Salesforce (business data management)  
+- Version control with **Git/GitHub**  
 
 ---
-## 📊 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías | Impacto |
+## 🎓 Certifications  
+- **Machine Learning Certification – Desafío Latam**  
+- **Data Science Program – Desafío Latam**  
+- **Power BI for Business Intelligence – Microsoft Learn**  
+
+---
+
+## 📊 Featured Projects  
+
+| Project | Description | Technologies | Impact |
 |----------|-------------|-------------|---------|
-| [✈️ Predicción Precio Vuelos](https://github.com/Katita31/MiProyecto) | Proyecto final Data Science: predicción de precios de boletos (Business) usando limpieza, feature engineering, codificación de variables categóricas y modelos Random Forest, XGBoost, Lasso. Optimización de Random Forest con GridSearchCV y métricas evaluadas frente a baseline. | Python, Random Forest, XGBoost, Lasso, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, GridSearchCV | R² 0.923, análisis interpretativo de variables y comparación con baseline |
-| [📧 Limpieza de Correos](https://github.com/Katita31/etl-limpieza-correos) | Automatización de limpieza y normalización de bases de correos de clientes, filtrando errores, dominios y duplicados. | Python, Pandas, Excel | Mejora la calidad de datos para análisis y CRM |
-| [📈 Forecast de Demanda](https://github.com/Katita31/planificacion-demanda-python) | Modelo predictivo para gestión de inventarios | Python, SARIMA | MAPE 7.5% |
-| [📊 Dashboard Compras](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Análisis de rendimiento de proveedores y KPIs de compras | Power BI, DAX | +65% eficiencia en monitoreo de KPIs |
-| [📦 Dashboard Inventario](https://github.com/Katita31/dashboard-inventario-powerbi) | Sistema de gestión y alertas de stock | Power BI, SQL | Reducción de 30% en faltantes |
-| [📉 Monitoreo Financiero](https://github.com/Katita31/Informefinanciero.pbi) | Tablero de KPIs financieros | Power BI, Excel | Reportes en tiempo real |
-
-
----
-
-## 🚀 En lo que estoy trabajando ahora  
-- Modelos de **predicción y clasificación** sobre datasets abiertos y de negocio  
-- Optimización de **dashboards y reportes ejecutivos** en Power BI, Tableau y Python  
-- Automatización de procesos de datos y consumo de **APIs**  
-- Aplicación de **Optuna y PyCaret** para experimentación y tuning de modelos  
-- Exploración de técnicas de **Cloud Computing en AWS** y contenedores con Docker  
+| [✈️ Flight Price Prediction](https://github.com/Katita31/MiProyecto) | Final Data Science project: ticket price prediction using feature engineering, categorical encoding, and ML models (Random Forest, XGBoost, Lasso). Includes model optimization with GridSearchCV and performance evaluation vs. baseline. | Python, Random Forest, XGBoost, Lasso, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, GridSearchCV | R² = 0.923, interpretability analysis and baseline comparison |
+| [📧 Email Cleaning Automation](https://github.com/Katita31/etl-limpieza-correos) | Automated cleaning and normalization of customer email databases, filtering errors, domains, and duplicates. | Python, Pandas, Excel | Improved CRM and data quality for analytics |
+| [📈 Demand Forecasting](https://github.com/Katita31/planificacion-demanda-python) | Predictive model for inventory management | Python, SARIMA | MAPE 7.5% |
+| [📊 Procurement Dashboard](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Supplier performance and purchasing KPIs analysis | Power BI, DAX | +65% efficiency in KPI monitoring |
+| [📦 Inventory Dashboard](https://github.com/Katita31/dashboard-inventario-powerbi) | Stock management and alert system | Power BI, SQL | 30% reduction in stockouts |
+| [📉 Financial Monitoring](https://github.com/Katita31/Informefinanciero.pbi) | Financial KPI dashboard | Power BI, Excel | Real-time reporting |
 
 ---
 
-## 🤝 Colaboración  
-Me motiva trabajar en proyectos de:  
+## 🚀 Currently Working On  
+- **Exploring ensemble learning methods** (Bagging, Boosting, Stacking) and **neural networks** with TensorFlow and Keras  
+- **Prediction and classification models** using open and business datasets  
+- **Dashboard and executive report optimization** in Power BI, Tableau, and Python  
+- **Process automation** and API data integration  
+- **Model tuning and experimentation** with Optuna and PyCaret  
+- **Cloud computing exploration** using AWS and Docker containers  
 
-✅ **Modelos predictivos** con Python y ML (Random Forest, XGBoost, Lasso, PyCaret, Optuna)  
-✅ **Dashboards ejecutivos** en Power BI/Tableau  
-✅ **Automatización ETL** con Python y SQL  
-✅ **MLOps y gestión colaborativa de proyectos**  
+---
+
+## 🤝 Collaboration  
+I’m interested in collaborating on projects involving:  
+
+✅ **Predictive modeling and Machine Learning** (Random Forest, XGBoost, Lasso, PyCaret, Optuna, TensorFlow, Keras)  
+✅ **Executive dashboards** in Power BI or Tableau  
+✅ **ETL automation** with Python and SQL  
+✅ **MLOps and collaborative ML project management**  
 
 <div align="center" style="margin:30px 0;">
 
-[![LinkedIn](https://img.shields.io/badge/-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kattyacontrerasv/)  
-[![Email](https://img.shields.io/badge/-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kattyacontreras.v@gmail.com)  
-[![GitHub Proyectos](https://img.shields.io/badge/-Portafolio-181717?style=for-the-badge&logo=github)](https://github.com/Katita31?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kattyacontrerasv/)  
+[![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kattyacontreras.v@gmail.com)  
+[![GitHub Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Katita31?tab=repositories)
 
 </div>
 
@@ -103,11 +112,8 @@ Me motiva trabajar en proyectos de:
 
 <div align="center">
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&icon_color=58a6ff&hide_border=true&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katita31&show_icons=true&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&icon_color=58a6ff&hide_border=true&card_width=500)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Katita31&layout=compact&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&hide_border=true)
-
-</div>
-/?username=Katita31&layout=compact&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katita31&layout=compact&theme=dark&bg_color=101010&title_color=58a6ff&text_color=e0e0e0&hide_border=true)
 
 </div>
