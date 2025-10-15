@@ -73,12 +73,14 @@ I combine technical expertise with business insight to:
 
 | Project | Description | Technologies | Impact |
 |----------|-------------|-------------|---------|
+| [🧠 Customer Churn Prediction](https://github.com/Katita31/customers-churn-prediction/blob/main/README.md) | Predicting customer churn in a telecommunications company using supervised Machine Learning, Bagging, and ensemble models. Includes EDA, feature engineering, class balancing with SMOTE, model comparison (Decision Tree, Bagging, Random Forest, MLP Neural Network), hyperparameter optimization with GridSearchCV, and evaluation with F1-Score, ROC-AUC, and OOB. Key churn factors: contract renewal, customer service calls, monthly charges, and usage patterns. | Python, scikit-learn, imbalanced-learn (SMOTE), MLP, Random Forest, Bagging, GridSearchCV, Pandas, NumPy, Matplotlib, Seaborn | Random Forest: F1≈0.657, ROC-AUC≈0.881, stable, interpretable. Bagging: F1≈0.68, ROC-AUC≈0.87, high stability. Neural Network baseline: F1≈0.642, ROC-AUC≈0.864. Provides actionable insights |
 | [✈️ Flight Price Prediction](https://github.com/Katita31/MiProyecto) | Final Data Science project: ticket price prediction using feature engineering, categorical encoding, and ML models (Random Forest, XGBoost, Lasso). Includes model optimization with GridSearchCV and performance evaluation vs. baseline. | Python, Random Forest, XGBoost, Lasso, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, GridSearchCV | R² = 0.923, interpretability analysis and baseline comparison |
 | [📧 Email Cleaning Automation](https://github.com/Katita31/etl-limpieza-correos) | Automated cleaning and normalization of customer email databases, filtering errors, domains, and duplicates. | Python, Pandas, Excel | Improved CRM and data quality for analytics |
 | [📈 Demand Forecasting](https://github.com/Katita31/planificacion-demanda-python) | Predictive model for inventory management | Python, SARIMA | MAPE 7.5% |
 | [📊 Procurement Dashboard](https://github.com/Katita31/PowerBI-SupplyChain-Compras) | Supplier performance and purchasing KPIs analysis | Power BI, DAX | +65% efficiency in KPI monitoring |
 | [📦 Inventory Dashboard](https://github.com/Katita31/dashboard-inventario-powerbi) | Stock management and alert system | Power BI, SQL | 30% reduction in stockouts |
 | [📉 Financial Monitoring](https://github.com/Katita31/Informefinanciero.pbi) | Financial KPI dashboard | Power BI, Excel | Real-time reporting |
+
 
 ---
 
